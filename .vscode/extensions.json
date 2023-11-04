@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "ms-python.vscode-pylance",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "stylelint.vscode-stylelint",
+    "ms-python.python",
+    "ms-azuretools.vscode-docker",
+    "pomdtr.excalidraw-editor",
+    "golang.go",
+    "hashicorp.terraform",
+    "ms-toolsai.jupyter",
+    "ms-vsliveshare.vsliveshare",
+    "rust-lang.rust-analyzer",
+    "redhat.vscode-yaml"
+
+  ]
+}

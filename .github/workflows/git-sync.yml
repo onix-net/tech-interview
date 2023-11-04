@@ -1,0 +1,15 @@
+# from https://github.com/wei/git-sync
+on: push
+jobs:
+  git-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: git-sync
+        uses: wei/git-sync@v3
+        with:
+          source_repo: "git@github.com:onix-net/tech-interview-private.git"
+          source_branch: "main"
+          destination_repo: "onix-net/tech-interview"
+          destination_branch: "main"
+          source_ssh_private_key: ${{ secrets.SOURCE_SSH_PRIVATE_KEY }}
+          destination_ssh_private_key: ${{ secrets.DESTINATION_SSH_PRIVATE_KEY }}
