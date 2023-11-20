@@ -3,8 +3,9 @@
 A repo to share our technical interviewing process and collaborate on code with
 candidates using VSCode.
 
-We have dedicated guides for interviewers and candidates. Please read that (or
-both) prior to conducting an interview or interviewing.
+We have dedicated guides for [interviewers](../docs/onix_interviewer.md) and
+[candidates](../docs/candidate.md). Please read that (or both) prior to
+conducting an interview or interviewing.
 
 ## Interview format
 
