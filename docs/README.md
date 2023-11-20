@@ -10,7 +10,7 @@ conducting an interview or interviewing.
 ## Interview format
 
 Our interviews are between 30 and 60 minutes, so time is of the essence! We try
-to spend 10 - 15 minutes on each question while keeping flexible. Some of the
+to spend 10 - 15 minutes on each question while keeping flexible - some of the
 best questions (even technical prompts) are open-ended and conversational.
 Here's the general format:
 
